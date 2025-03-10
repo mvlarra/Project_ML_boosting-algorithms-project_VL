@@ -9,6 +9,7 @@
 	"difficulty": "beginner",
 	"syntax": "python",
 	"duration" : 2,
-    "projectType": "project",
-	"description" : "Use XGBoost algorithm "
+    	"projectType": "project",
+	"description" : "Use XGBoost algorithm ",
+	"gitpod": true
 }
